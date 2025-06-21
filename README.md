@@ -1,6 +1,6 @@
 # Web Server
 
-Proyek Bookshelf API menggunakan Node.js dan Hapi.js.
+Proyek Notes API menggunakan Node.js dan Hapi.js.
 
 ## 📦 Instalasi
 
